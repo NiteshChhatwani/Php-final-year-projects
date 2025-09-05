@@ -13,7 +13,7 @@ Here you’ll find **PHP + MySQL projects** with **complete source code, documen
 ### 🏋️ Gym Management System
 - Manage gym members, trainers, plans, and payments.
 - **Tech Used:** PHP, MySQL, AJAX  
-- 📄 [Download Documentation (PDF)](https://www.devnitesh.link/Projects/Gym.pdf)  
+- 📄 [Download Website images  (PDF)](https://www.devnitesh.link/Projects/Gym.pdf)  
 - 🌐 [View Project Details](https://devnitesh.link/Projects)
 
 ---
@@ -21,7 +21,7 @@ Here you’ll find **PHP + MySQL projects** with **complete source code, documen
 ### 📚 Library Management System
 - Handle books, borrowers, returns, and fines.  
 - **Tech Used:** PHP, MySQL  
-- 📄 [Download Documentation (PDF)](https://www.devnitesh.link/Projects/library.pdf)  
+- 📄 [Download Website images (PDF)](https://www.devnitesh.link/Projects/library.pdf)  
 - 🌐 [View Project Details](https://devnitesh.link/Projects)
 
 ---
@@ -29,7 +29,7 @@ Here you’ll find **PHP + MySQL projects** with **complete source code, documen
 ### 🏠 Real Estate Website
 - List, buy, rent properties with responsive design.  
 - **Tech Used:** PHP, MySQL, JavaScript  
-- 📄 [Download Documentation (PDF)](https://www.devnitesh.link/Projects/Real%20Estate%20.pdf)  
+- 📄 [Download Website images (PDF)](https://www.devnitesh.link/Projects/Real%20Estate%20.pdf)  
 - 🌐 [View Project Details](https://devnitesh.link/Projects)
 
 ---
@@ -45,7 +45,7 @@ Here you’ll find **PHP + MySQL projects** with **complete source code, documen
 ### 🏥 Doctor Appointment System
 - Online appointment scheduling for patients & doctors.  
 - **Tech Used:** PHP, MySQL, Bootstrap  
-- 📄 [Download Documentation (PDF)](https://www.devnitesh.link/Projects/Doctor.pdf)  
+- 📄 [Download Website images (PDF)](https://www.devnitesh.link/Projects/Doctor.pdf)  
 - 🌐 [View Project Details](https://devnitesh.link/Projects)
 
 ---
@@ -53,7 +53,7 @@ Here you’ll find **PHP + MySQL projects** with **complete source code, documen
 ### 🛒 E-commerce Website
 - Full shopping system with cart, checkout & payment.  
 - **Tech Used:** PHP, MySQL, JavaScript  
-- 📄 [Download Documentation (PDF)](https://www.devnitesh.link/Projects/Ecommerce.pdf)  
+- 📄 [Download Website images (PDF)](https://www.devnitesh.link/Projects/Ecommerce.pdf)  
 - 🌐 [View Project Details](https://devnitesh.link/Projects)
 
 ---
@@ -65,11 +65,11 @@ All projects come with **remote setup support** via TeamViewer / AnyDesk.
 ---
 
 ## 📬 Contact
-- 🌐 Website: [https://devnitesh.link](https://devnitesh.link)  
+- 🌐 Website: [Nitesh Chhatwani](https://devnitesh.link)  
 - 📧 Email: niteshchhatwani1@gmail.com
 - 📱 WhatsApp: [Click to Chat](https://wa.me/918766741799)
-- 📷 Instagram: [@yourhandle]([https://instagram.com/yourhandle](https://www.instagram.com/xtx_nitesh_06))  
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/devitesh-5537652b1)  
+- 📷 Instagram: [@xtx_nitesh_06](https://www.instagram.com/xtx_nitesh_06)
+- 💼 LinkedIn: [MY LinkedIn](https://www.linkedin.com/in/devitesh-5537652b1)  
 
 ---
 
